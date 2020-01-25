@@ -1,0 +1,16 @@
+int main()
+{
+	char c;
+	FILE * fp;
+	int r=1,co=0,temp;
+	char ariop[4][2]={"-","*","+","/"};
+	char relop[6][4]={"<",">","<=",">=","==","!="};
+	char logop[4][2]={"&","|","&&","||"};
+	struct token
+	{
+		char lexemename[50];
+		int row,col;
+		char type[50];
+	};
+	printf("hjhsd")
+}
