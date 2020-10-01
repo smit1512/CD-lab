@@ -349,3 +349,4 @@ int main()
 		 }
     fclose(f1);
 }
+//hacktoberfestbyAyush
