@@ -1,3 +1,4 @@
+#main function
 int main()
 {
 	char c;
