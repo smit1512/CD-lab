@@ -13,4 +13,5 @@ int main()
 		char type[50];
 	};
 	printf("hjhsd")
+	printf("hi")
 }
